@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7a0fad2a-cb1e-482e-aac6-e37de43860b5/AppServices/subscriptions/7a0fad2a-cb1e-482e-aac6-e37de43860b5/resourceGroups/App2/providers/Microsoft.Web/sites/OrangeFeuilleSSI",
+    "appService.deploySubpath": "."
 }
